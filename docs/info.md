@@ -17,4 +17,4 @@ Display 7 to segments
 
 ## External hardware
 
-Display 7 segmentos, input leds, output led
+Display 7 segmentos, input leds, output led.
